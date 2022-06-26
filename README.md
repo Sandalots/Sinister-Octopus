@@ -1,3 +1,4 @@
 # Sinister Octopus
-A very sinister octopus ...
+A very sinister octopus.
 The Ocotopus Moves!
+
