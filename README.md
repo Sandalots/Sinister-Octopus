@@ -1,5 +1,5 @@
 # Sinister Octopus
-An Sinister Octopus WebApp.
+A Sinister Octopus WebApp.
 Built with ReactJS in mind.
 # About 
 Developed to solve the Octopus problem encountered during Buckaroonies.
