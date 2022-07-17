@@ -2,7 +2,7 @@
 An Sinister Octopus WebApp.
 Built with ReactJS in mind.
 # About 
-Developed to solve the octopus problem.
+Developed to solve the Octopus problem encountered during Buckaroonies.
 # Credits
 @Sandalots
 <br>
