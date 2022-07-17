@@ -4,3 +4,5 @@ Built with ReactJS in mind.
 # About 
 # Credits
 @Sandalots
+@lglspro
+@ASonnet12
