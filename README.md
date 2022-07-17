@@ -1,2 +1,3 @@
 # Sinister Octopus
-Octopus WebApp.
+An Sinister Octopus WebApp.
+Built with ReactJS
