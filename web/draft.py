@@ -8,9 +8,10 @@ __version__ = "0.1.0"
 __license__ = "MIT"
 
 
-def main():
+def main(directory):
     """ Main entry point of the app """
-    print("hello world")
+    import os, random
+    random.choice(directory)) #change dir name to whatever
 
 
 if __name__ == "__main__":
