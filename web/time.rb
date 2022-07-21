@@ -1,5 +1,5 @@
 #!usr/bin/ruby -w
-
+require 'io/console'
 time = Time.new
 
 # Components of a time
@@ -15,3 +15,5 @@ puts time.min
 puts time.sec
 puts time.usec
 puts time.zone
+STDIN.getch
+print("             \r")
