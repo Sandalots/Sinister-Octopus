@@ -1,5 +1,5 @@
 # Sinister Octopus
-A Sinister Octopus WebApp.
+A Sinister Octopus Web Application.
 
 # About 
 Take a-look at the Sinister Octopus collection.
